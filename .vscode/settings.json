@@ -3,9 +3,10 @@
     "C_Cpp.errorSquiggles": "disabled",
     "php.debug.executablePath": "",
     "java.project.sourcePaths": [
+        "Reto 8 - El Generador Pseudoaleatorio/java",
         "Reto 7 - El sombrero Seleccionador/java",
         "Reto 5 - Hola Mundo/java",
         "Reto 4 - Primo, Fibonacci y Par/java",
-        "Reto 8 - El Generador Pseudoaleatorio/java"
+        "Reto 9 - Heterograma, Isograma y Pangrama/java"
     ]
 }
